@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+
+nav li a {
+    color: #fff;
+} 
+a{
+    text-decoration: none;
+}
+
+header {
+    background-color: #2d9797;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav li {
+    display: inline-block;
+    padding: 15px;
+}
+form{
+    text-align: center;
+    font-size: 20px;
+    height: 90vh ;
+    color: blue;
+}
+button{
+    font-size: 30px;
+    margin: 30px;
+}
+input{
+    font-size: 25px;
+}
+#city{
+    font-size: 20px;
+}
+#uzaq{
+    margin: 20px;
+}
+body{
+    background: url(./assets/Image\ 3.jpg) no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
